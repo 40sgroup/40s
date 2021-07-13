@@ -19,3 +19,4 @@
 外部优秀文章
 ---
    * [今天我成了40岁的老人，却拥有了崭新的开始](https://mp.weixin.qq.com/s/hxwSDYle8DhQorGHGUYE5g)
+   * [被嫌弃的程序员的35岁](https://mp.weixin.qq.com/s/LcA6uglhmuEDr_MJni9WZw)
